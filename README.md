@@ -13,3 +13,5 @@ The first row of CSV should be “questions” and then “answers”.
 All the below rows should contain “your question” and then ”answer of the question”.
 If there are multiple answers just append in the same row.
 An example of a CSV file for HMI subject is provided in the “search/files” folder.
+
+![](Preview.png)
