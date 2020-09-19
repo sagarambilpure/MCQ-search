@@ -1,0 +1,6 @@
+﻿questions,answers,,
+"In distributed system, each processor has its own ___________", local memory,clock,
+If one site fails in distributed system then ___________, the remaining sites can continue operating,,
+Internet provides _______ for remote login,telnet,,
+"In distributed systems, link and site failure is detected by ___________",handshaking,,
+Which routing technique is used in a distributed system?,dynamic routing,fixed routing,virtual routing
